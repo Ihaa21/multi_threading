@@ -1,6 +1,7 @@
 
 #include <mutex>
 #include <intrin.h>
+#include "memory\memory.h"
 
 //
 // NOTE: Job queue functions
